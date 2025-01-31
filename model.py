@@ -1,0 +1,1 @@
+MODEL_PATH = r'C:\Users\muhammad.shazwan\OneDrive - ProtectHealth Corp Sdn. Bhd\Documents\streamlit\ncd\random_forest_model_dm_with_age_latest2.pkl'
